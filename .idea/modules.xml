@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Flask_Demo.iml" filepath="$PROJECT_DIR$/.idea/Flask_Demo.iml" />
+      <module fileurl="file://D:/srini/Flask_Project/.idea/Flask_Project.iml" filepath="D:/srini/Flask_Project/.idea/Flask_Project.iml" />
+      <module fileurl="file://D:/srini/pythonlogin/.idea/pythonlogin.iml" filepath="D:/srini/pythonlogin/.idea/pythonlogin.iml" />
+    </modules>
+  </component>
+</project>
